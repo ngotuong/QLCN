@@ -2,8 +2,8 @@
   "scriptId": "1c5NVm6FP8jSgXKjsoQ32KI8DQUVH9FSEtXwUlG8xQnwNHAhgV2FiI0f9",
   "rootDir": "",
   "scriptExtensions": [
-    ".js",
-    ".gs"
+    ".gs",
+    ".js"
   ],
   "htmlExtensions": [
     ".html"
